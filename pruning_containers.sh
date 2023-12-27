@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author: Sakshi S.
-
 # Description: This Script prunes old running containers after a specific time period.
 
 getVariables()
